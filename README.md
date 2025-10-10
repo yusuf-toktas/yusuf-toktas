@@ -13,15 +13,15 @@
 
 ### 👨‍💻 Hakkımda
 
-Ben bir [**Uzmanlık Alanınız, örn: Yazılım Geliştirici, Veri Bilimci**], [**Teknoloji-1**] ve [**Teknoloji-2**] konularında tutkuluyum. Şu anda [**Şirket Adı**]'da [**Pozisyonunuz**] olarak çalışıyorum ve [**Proje veya Sorumluluklarınız**] üzerinde yoğunlaşıyorum. Yeni teknolojiler öğrenmekten ve açık kaynak projelere katkıda bulunmaktan keyif alıyorum.
+Ben bir Bilgisayar Programcısıyım, Oyun ve Uygulama Geliştirme konularında tutkuluyum. Şu anda Isparta Uygulamalı Bilimler Üniversitesinde Öğrenci olarak okuyorum ve Oyun Geliştirme, Mobil Uygulama Geliştirme, Web Geliştirme ve Uygulama geliştirme üzerinde yoğunlaşıyorum. Yeni teknolojiler öğrenmekten ve açık kaynak projelere katkıda bulunmaktan keyif alıyorum.
 
-- 🌱 Şu anda **[Öğrendiğiniz Teknoloji]** öğreniyorum.
-- 👯 **[Proje Adı]** gibi projelerde işbirliği yapmak istiyorum.
-- 🤔 **[Konu]** hakkında yardım arıyorum.
-- 💬 Bana **[İlgi Alanlarınız]** hakkında soru sorabilirsiniz.
-- 📫 Bana nasıl ulaşabilirsiniz: [**E-posta Adresiniz**]
-- 😄 Pronouns: **[He/Him, She/Her, vb.]**
-- ⚡ Eğlenceli gerçek: **[Hakkınızda eğlenceli bir bilgi]**
+- 🌱 Şu anda Flutter ve .NET Framework teknolojilerini öğreniyorum.
+- 👯 Oyun Geliştime gibi projelerde işbirliği yapmak istiyorum.
+- 🤔 Mobil Uygulama Geliştime hakkında yardım arıyorum.
+- 💬 Bana Oyun Geliştirme, Web Geliştirme ve Uygulama geliştirme hakkında soru sorabilirsiniz.
+- 📫 Bana nasıl ulaşabilirsiniz: **yusuf.toktas.32@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Eğlenceli gerçek: **Kedileri çok severim.**
 
 ---
 
