@@ -46,8 +46,7 @@ Ben bir Bilgisayar Programcısıyım, Oyun ve Uygulama Geliştirme konularında 
 ### 📫 İletişim
 
 <p align="left">
-<a href="https://linkedin.com/in/kullaniciadiniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kullaniciadiniz" height="30" width="40" /></a>
-<a href="https://twitter.com/kullaniciadiniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kullaniciadiniz" height="30" width="40" /></a>
-<a href="https://instagram.com/kullaniciadiniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kullaniciadiniz" height="30" width="40" /></a>
-<a href="https://medium.com/@kullaniciadiniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kullaniciadiniz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kullaniciadiniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuftoktas" height="30" width="40" /></a>
+<a href="https://twitter.com/kullaniciadiniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusuf__toktas" height="30" width="40" /></a>
+<a href="https://instagram.com/kullaniciadiniz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusuftoktas.jpg" height="30" width="40" /></a>
 </p>
