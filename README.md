@@ -2,10 +2,10 @@
 
 <p align="left">
   <a href="https://github.com/yusuf-toktas">
-    <img src="https://github-readme-stats.vercel.app/api?username=yusuf-toktas&show_icons=true&theme=radical" alt="Yusuf's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yusuf-toktas&show_icons=true&theme=radical" alt="Github İstatistiklerim" />
   </a>
   <a href="https://github.com/yusuf-toktas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-toktas&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-toktas&layout=compact&theme=radical" alt="En Çok Kullandığım Diller" />
   </a>
 </p>
 
@@ -20,8 +20,6 @@ Ben bir Bilgisayar Programcısıyım, Oyun ve Uygulama Geliştirme konularında 
 - 🤔 Mobil Uygulama Geliştime hakkında yardım arıyorum.
 - 💬 Bana Oyun Geliştirme, Web Geliştirme ve Uygulama geliştirme hakkında soru sorabilirsiniz.
 - 📫 Bana nasıl ulaşabilirsiniz: **yusuf.toktas.32@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Eğlenceli gerçek: **Kedileri çok severim.**
 
 ---
 
