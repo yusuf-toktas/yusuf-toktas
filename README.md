@@ -35,7 +35,6 @@ focus:
 
 currently_learning:
   - Flutter
-  - .NET Framework
 
 looking_to_collaborate_on: "Game development projects"
 ask_me_about:              ["Game Dev", "Web Dev", "App Dev"]
