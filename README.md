@@ -20,13 +20,13 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name:       "Yusuf Toktaş"
-location:   "Isparta, Türkiye"
-education:  "Isparta University of Applied Sciences"
-role:       "Computer Programmer"
+name:                       "Yusuf Toktaş"
+location:                   "Isparta, Türkiye"
+education:                  "Isparta University of Applied Sciences"
+role:                       "Computer Programmer"
 
 focus:
   - Game Development
@@ -36,14 +36,14 @@ focus:
 currently_learning:
   - Flutter
 
-looking_to_collaborate_on: "Game development projects"
-ask_me_about:              ["Game Dev", "Web Dev", "App Dev"]
-fun_fact:                  "I turn coffee into code ☕"
+looking_to_collaborate_on:  "Game development projects"
+ask_me_about:               ["Game Dev", "Web Dev", "App Dev"]
+fun_fact:                   "I turn coffee into code ☕"
 ```
 
 <br/>
 
-## 🛠️ &nbsp;Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -60,26 +60,26 @@ fun_fact:                  "I turn coffee into code ☕"
 
 <br/>
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusuf-toktas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=bb9af7" alt="github-stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-toktas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=7AA2F7" alt="top-langs"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusuf-toktas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="github-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-toktas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" alt="top-langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yusuf-toktas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7AA2F7&ring=bb9af7&fire=bb9af7&currStreakLabel=7AA2F7" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=yusuf-toktas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-toktas&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7AA2F7&line=bb9af7&point=ffffff&area=true&area_color=7AA2F7" width="100%" alt="activity-graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-toktas&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7" width="100%" alt="activity-graph"/>
 
 </div>
 
 <br/>
 
-## 🏆 &nbsp;Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -89,7 +89,7 @@ fun_fact:                  "I turn coffee into code ☕"
 
 <br/>
 
-## 🤝 &nbsp;Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -109,7 +109,11 @@ fun_fact:                  "I turn coffee into code ☕"
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 </a>
 
-## 💖 &nbsp;Support Me
+</div>
+
+<br/>
+
+## 💖 Support Me
 
 <div align="center">
 
@@ -119,10 +123,6 @@ fun_fact:                  "I turn coffee into code ☕"
 <a href="https://www.patreon.com/yusuftoktas">
   <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="patreon"/>
 </a>
-
-</div>
-
-<br/>
 
 </div>
 
