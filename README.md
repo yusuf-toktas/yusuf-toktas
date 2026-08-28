@@ -64,12 +64,12 @@ fun_fact:                   "I turn coffee into code ☕"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusuf-toktas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="github-stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-toktas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" alt="top-langs"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=yusuf-toktas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="github-stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-toktas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" alt="top-langs"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yusuf-toktas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=yusuf-toktas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
 
 <br/><br/>
 
@@ -83,7 +83,7 @@ fun_fact:                   "I turn coffee into code ☕"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yusuf-toktas&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=yusuf-toktas&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
 
 </div>
 
