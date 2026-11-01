@@ -1,137 +1,90 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Yusuf%20Tokta%C5%9F&fontSize=62&fontAlignY=34&fontColor=ffffff&desc=Game%20and%20Application%20Developer&descSize=20&descAlignY=54&descAlign=50&animation=twinkling" width="100%" alt="banner"/>
+# Yusuf Toktaş
 
-<a href="https://github.com/yusuf-toktas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Computer+Programmer+%F0%9F%92%BB;Game+Development+Enthusiast+%F0%9F%8E%AE;Mobile+%26+Web+Developer+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="typing-headline" />
-</a>
+**Software Developer · Open Source Enthusiast · Game Developer**
 
-<br/>
+I enjoy building software, exploring how things work, and turning ideas into practical projects.
 
-<a href="https://github.com/yusuf-toktas?tab=followers">
-  <img src="https://img.shields.io/github/followers/yusuf-toktas?label=Followers&style=for-the-badge&color=7AA2F7&labelColor=1a1b27&logo=github" alt="followers"/>
-</a>
-<a href="https://github.com/yusuf-toktas">
-  <img src="https://komarev.com/ghpvc/?username=yusuf-toktas&label=Profile+Views&style=for-the-badge&color=7AA2F7&labelColor=1a1b27" alt="profile-views" />
-</a>
-<img src="https://img.shields.io/badge/Focus-Game%20%26%20Mobile-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="focus" />
+[![GitHub followers](https://img.shields.io/github/followers/yusuf-toktas?style=flat&logo=github&label=Followers)](https://github.com/yusuf-toktas)
+[![Profile Views](https://komarev.com/ghpvc/?username=yusuf-toktas&style=flat&color=blue)](https://github.com/yusuf-toktas)
 
 </div>
 
-<br/>
+---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## About Me
 
-```yaml
-name:                       "Yusuf Toktaş"
-location:                   "Isparta, Türkiye"
-education:                  "Isparta University of Applied Sciences"
-role:                       "Computer Programmer"
+I'm a developer interested in building software that is useful, reliable, and thoughtfully designed.
 
-focus:
-  - Game Development
-  - Mobile Application Development
-  - Web Development
+I enjoy working across different areas of software development, from low-level systems and developer tools to game development and applications.
 
-currently_learning:
-  - Flutter
+I value clean architecture, maintainable code, and understanding the underlying technologies rather than just using them.
 
-looking_to_collaborate_on:  "Game development projects"
-ask_me_about:               ["Game Dev", "Web Dev", "App Dev"]
-fun_fact:                   "I turn coffee into code ☕"
-```
+Currently, I'm focusing on **systems programming, developer tooling, WebAssembly, and game development**.
 
-<br/>
+## Tech Stack
 
-## 🛠️ &nbsp;Tech Stack & Tools
+**Languages**
 
-<div align="center">
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,java,python,js,ts,react,html,css&perline=11" alt="langs"/>
+**Technologies & Tools**
 
-### Game Dev & Mobile
-<img src="https://skillicons.dev/icons?i=unity,androidstudio,figma,xd&perline=7" alt="gamedev"/>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Databases & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,visualstudio&perline=8" alt="tools"/>
+## Featured Projects
 
-</div>
+### [wasm-dap](https://github.com/yusuf-toktas/wasm-dap)
 
-<br/>
+A source-level debugger, execution tracer, and module inspector for WebAssembly.
 
-## 📊 &nbsp;GitHub Analytics
+Built with Rust and Wasmtime, with support for source-level debugging through the Debug Adapter Protocol.
 
-<div align="center">
+**Rust · WebAssembly · Wasmtime · DAP**
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yusuf-toktas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" alt="github-stats"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-toktas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1a1b27&title_color=7aa2f7&text_color=a9b1d6" alt="top-langs"/>
+### [PyPath Inspector](https://github.com/yusuf-toktas/pypath-inspector)
 
-<br/><br/>
+A local-first, strictly read-only diagnostic tool for Python environments.
 
-<img src="https://streak-stats.demolab.com?user=yusuf-toktas&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
+Helps developers inspect Python installations, command resolution, PATH configuration, pip mismatches, and virtual environments across Windows, Linux, and macOS.
 
-<br/><br/>
+**Python · CLI · Diagnostics · Cross-platform**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuf-toktas&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7" width="100%" alt="activity-graph"/>
+## What I'm Currently Exploring
 
-</div>
+- Systems programming and developer tools.
+- WebAssembly runtimes, debugging, and execution environments.
+- Game development with Godot and C#.
+- Software architecture and maintainable project design.
+- Building useful open-source tools.
 
-<br/>
+## Beyond Code
 
-## 🏆 &nbsp;Achievements
+I enjoy experimenting with new ideas, learning unfamiliar technologies, and working on projects that challenge me to understand things more deeply.
 
-<div align="center">
+I believe good software is not just about making things work, but also about making them understandable, maintainable, and useful.
 
-<img src="https://github-profile-trophy.vercel.app/?username=yusuf-toktas&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="trophies" />
+## Connect
 
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yusuf.toktas.32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuftoktas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yusuf-toktas)
 
-<br/>
-
-## 🤝 &nbsp;Let's Connect
+---
 
 <div align="center">
 
-<a href="mailto:yusuf.toktas.32@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-<a href="https://linkedin.com/in/yusuftoktas">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="https://twitter.com/yusuf__toktas">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-</a>
-<a href="https://instagram.com/yusuftoktas.jpg">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
-<a href="https://github.com/yusuf-toktas">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-</a>
-
-</div>
-
-<br/>
-
-## 💖 &nbsp;Support Me
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/yusuftoktas">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee"/>
-</a>
-<a href="https://www.patreon.com/yusuftoktas">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="patreon"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💡 *"First, solve the problem. Then, write the code."* — John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt="footer"/>
+*Building, learning, and improving — one project at a time.*
 
 </div>
